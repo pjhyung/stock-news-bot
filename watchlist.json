@@ -1,6 +1,15 @@
 {
-  "stocks": [],
+  "stocks": [
+    {
+      "name": "삼성전자",
+      "ticker": "005930"
+    },
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660"
+    }
+  ],
   "threshold": 7,
-  "telegram_offset": 705743303,
-  "last_run_kst": "2026-06-10T21:59:41.289092+09:00"
+  "telegram_offset": 705743306,
+  "last_run_kst": "2026-06-10T22:21:01.636525+09:00"
 }
