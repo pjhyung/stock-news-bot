@@ -17,7 +17,7 @@ from src.news_fetcher import NewsItem
 from src.state import Stock
 
 CEREBRAS_URL = "https://api.cerebras.ai/v1/chat/completions"
-MODEL = "llama3.3-70b"
+MODEL = "llama-3.3-70b"
 TIMEOUT = 30
 
 SYSTEM_PROMPT = """당신은 한국 주식 시장 애널리스트다. 뉴스의 주가 영향 중요도를 평가한다.
