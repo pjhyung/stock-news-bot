@@ -1,6 +1,6 @@
 {
   "stocks": [],
   "threshold": 7,
-  "telegram_offset": 0,
-  "last_run_kst": null
+  "telegram_offset": 705743302,
+  "last_run_kst": "2026-06-10T21:55:59.414256+09:00"
 }
