@@ -7,9 +7,13 @@
     {
       "name": "SK하이닉스",
       "ticker": "000660"
+    },
+    {
+      "name": "성호전자",
+      "ticker": "043260"
     }
   ],
   "threshold": 7,
-  "telegram_offset": 705743306,
-  "last_run_kst": "2026-06-10T22:52:13.244550+09:00"
+  "telegram_offset": 705743308,
+  "last_run_kst": "2026-06-10T23:01:43.112721+09:00"
 }
