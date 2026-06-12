@@ -11,9 +11,13 @@
     {
       "name": "성호전자",
       "ticker": "043260"
+    },
+    {
+      "name": "에스피지",
+      "ticker": "058610"
     }
   ],
   "threshold": 7,
-  "telegram_offset": 705743308,
-  "last_run_kst": "2026-06-11T16:23:10.365389+09:00"
+  "telegram_offset": 705743311,
+  "last_run_kst": "2026-06-12T11:38:32.485548+09:00"
 }
